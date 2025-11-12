@@ -5,7 +5,7 @@ This repo combines many of the parts that will need to be glued together in the 
 # what is the pizero-slidetop?
 The pizero-slidetop is like the pi5-slidetop that I am currently developing except it is more compact and is compatible with the Orange Pi Zero 2 W, the RADXA Zero 2 Pro(though the battery may not provide enough power), The RADXA Zero 3W/E, and the Raspberry Pi Zero 2/W.
 
-This obviously will not come with the features of my original slidetop such as a camera module or an NVMe slot, but it wil be less power hungry. I am also changing the sliding hinge design to one that is more simular to the hinge design found in this video 'https://www.youtube.com/watch?v=jntHraUABHo'.
+This obviously will not come with the features of my original slidetop such as a camera module or an NVMe slot, but it wil be less power hungry. I am also changing the sliding hinge design to one that is more simular to the hinge design found in [this video](https://www.youtube.com/watch?v=jntHraUABHo).
 # WARNING
 This is still under development and its not even under the beta prototype testing phase of the project. I will once again update the CAD files as I work on this and hopefully make proper documentation in the near future.
 
