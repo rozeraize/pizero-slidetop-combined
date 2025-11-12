@@ -16,8 +16,8 @@ This is still under development and its not even under the beta prototype testin
 3. I will wan't to create better documentation some time in the future.
 
 # Parts & Dimensions
-Display: 
 ![display](/img/display.jpg)
+Display: 
 1. Display Area：196.608(W)×147.456(H) mm
 2. Outline Size：208.88(W)×167.12(H) mm
 3. Panel Model:LP097QX1-SPC1
