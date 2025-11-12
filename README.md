@@ -26,6 +26,7 @@ Display:
 7. Resolution：2048(RGB)×1536 , QXGA
 
 Display Controller board: 
+![controller-board](/img/controller-board.jpg)
 1. HD LCD Controller Board VS-RTD09705-V1
 2. Board Size: 120mm x 62.5mm x 5mm
 3. Audio Output: Earphone Support Speaker 4ohm 2W or 8ohm 1.5W
