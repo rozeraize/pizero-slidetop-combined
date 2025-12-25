@@ -70,7 +70,10 @@ SD Extender cable adapter
 2. Size: 2.15x1.81cm
 3. Thickness: Approx. 2.6mm
 
-
+Metal Balls for friction:
+1. Amount: alot of them
+2. Size: 2mm x 2mm 
+3. Material: Stainless Steel
 
 
 
