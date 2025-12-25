@@ -75,6 +75,10 @@ Metal Balls for friction:
 2. Size: 2mm x 2mm 
 3. Material: Stainless Steel
 
+# Cables
+1. male 3.5mm AUX to female 3.5mm AUX cable
+2. (for RADXA Zero 2 PRO or RPI Zero 2/2W) Micro-HDMI male to 
+
 
 
 
