@@ -76,13 +76,13 @@ Metal Balls for friction:
 3. Material: Stainless Steel
 
 # Cables
-1. Headphone port: male 3.5mm AUX to female 3.5mm AUX cable
-2. Connect SBC to controller board: (for RADXA Zero 2 PRO or RPI Zero 2/2W) Micro-HDMI male to Mini-HDMI male cable
-3. Connect SBC to controller board: (for Orange Pi Zero 2W) Mini-HDMI male to Mini-HDMI male cable
-4. Charging port: USB0-C male to USB-C female cable
-5. Charge SBC: USB-C male to USB-C male
-6. Charge screen & controller board: USB male to DC barrel-port/micro-USB male
-7. HDMI-in port: HDMI male to HDMI/mini-HDMI/micro-HDMI female
+1. For the headphone port: male 3.5mm AUX to female 3.5mm AUX cable
+2. To connect SBC to controller board: (for RADXA Zero 2 PRO or RPI Zero 2/2W) Micro-HDMI male to Mini-HDMI male cable
+3. Or to connect SBC to controller board: (for Orange Pi Zero 2W) Mini-HDMI male to Mini-HDMI male cable
+4. For the charging port: USB0-C male to USB-C female cable
+5. To charge SBC: USB-C male to USB-C male
+6. To charge screen & controller board: USB male to DC barrel-port/micro-USB male
+7. For the HDMI-in port: HDMI male to HDMI/mini-HDMI/micro-HDMI female
 
 
 
