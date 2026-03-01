@@ -70,11 +70,6 @@ SD Extender cable adapter
 2. Size: 2.15x1.81cm
 3. Thickness: Approx. 2.6mm
 
-Metal Balls for friction:
-1. Amount: alot of them
-2. Size: 2mm x 2mm 
-3. Material: Stainless Steel
-
 # Cables
 1. For the headphone port: male 3.5mm AUX to female 3.5mm AUX cable
 2. To connect SBC to controller board: (for RADXA Zero 2 PRO or RPI Zero 2/2W) Micro-HDMI male to Mini-HDMI male cable
