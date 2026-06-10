@@ -79,6 +79,15 @@ SD Extender cable adapter
 6. To charge screen & controller board: USB male to DC barrel-port/micro-USB male
 7. For the HDMI-in port: HDMI male to HDMI/mini-HDMI/micro-HDMI female
 
+# USB-C Hub
+1. Dock Description: Type-C to USB3.0 HUB
+2. Product Model:	ORICO-AH-13
+3. Material:	Aluminum Alloy
+4. Color:	Gray
+5. Input:	Type-C
+6. Output:	USB3.0*1，USB2.0*3
+7. Transmission Speed:	USB3.0:5Gbps, USB2.0:480Mbps
+8. Dimension:		88*15*7.5mm
 
 
 
