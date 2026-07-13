@@ -91,9 +91,10 @@ SD Extender cable adapter
 
 
 
-# Footnote
+# Note
 
 1. I am currently still working on the 3d models, but I've made screw mounts for both the Orange Pi Zero 2W (or any SBC of the same dimensions) and for the slightly larger RADXA Zero 2 Pro.
+2. You have to convert the .FCStd files into .3mf files yourself.
 
 # Problems
 1. Since I've opted for the cheapest and smallest bluetooth keyboard and touchpad I could find, the touchpad quality is horrible. I would recommend slowing down the touchpad speed on whichever desktop environment you are running.
